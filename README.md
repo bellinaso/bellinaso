@@ -4,7 +4,7 @@
 ### Um pouco sobre mim
 <img style="width:256px; border-radius:50%; margin: 1rem;" align="right" alt="" src="https://github.com/bellinaso/bellinaso/assets/92125758/50a1bd94-5986-4bc8-8f00-c1b0d646ca32"/>
 
-<p align="justify">Me chamo Bruno Bellinaso Brasil, sou natural de Santa Maria, Rio Grande do Sul, Brasil, e nasci em 2006, atualmente possuo 17 anos de idade. Estudo no Colégio Técnico Industrial de Santa Maria e estou cursando o técnico em Informática para a Internet integrado ao ensino médio.</p>
+<p align="justify">Me chamo Bruno Bellinaso Brasil, sou natural de Santa Maria, Rio Grande do Sul, Brasil, e nasci em 2006, atualmente possuo 17 anos de idade. Estudo atualmente no <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM) e estou cursando o técnico em Informática para a Internet integrado ao ensino médio.</p>
 
 <p align="justify">Meu interesse por tecnologia surgiu através do convívio com familiares que trabalham nessa área, como meu pai e meus tios por parte de mãe. Em 2020, durante a pandemia, decidi aprender a programar e criar um bot para Discord (spoiler: até hoje está em desenvolvimento). Comecei então a assistir a um curso de programação para iniciantes em Python, ministrado pelo professor Gustavo Guanabara, dono do canal <a href="https://www.youtube.com/@CursoemVideo">Curso em Vídeo</a> no youtube. </p>
 
@@ -16,9 +16,9 @@
 ## Social
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunobellinaso2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bellinaso-brasil-199111268/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunobellinaso/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BrunoBellinaso)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bellinaso-brasil-199111268/)
 
 
 ## Estudei
@@ -53,8 +53,8 @@
 
 ## Minhas estatísticas do github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellinaso&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellinaso&show_icons=true&theme=midnight-purple)
 
-<br>
+<!-- <br> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellinaso)](https://github.com/bellinaso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellinaso&theme=midnight-purple)](https://github.com/bellinaso/github-readme-stats)
