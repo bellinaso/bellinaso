@@ -4,7 +4,7 @@
 ### Um pouco sobre mim
 <!-- <img style="width:256px; border-radius:50%; margin: 1rem;" align="right" alt="" src=""/> -->
 
-<p align="justify">Me chamo Bruno Bellinaso Brasil, sou natural de Santa Maria, Rio Grande do Sul, Brasil, nasci em 2006 e tenho 17 anos de idade. Estudo atualmente no <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM) e estou cursando o técnico em Informática para a Internet integrado ao ensino médio.</p>
+<p align="justify">Me chamo Bruno Bellinaso Brasil, sou natural de Santa Maria, Rio Grande do Sul, Brasil, nasci em 2006 e tenho 17 anos de idade. Estudo atualmente no <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM) e estou cursando Técnico em Informática para a Internet integrado ao ensino médio.</p>
 
 <p align="justify">Meu interesse por tecnologia surgiu por meio do convívio com familiares que trabalham nessa área, como meu pai e meus tios por parte de mãe. Em 2020, durante a pandemia, decidi aprender a programar e criar um bot para Discord (spoiler: até hoje está em desenvolvimento). Comecei então a assistir a um curso de programação para iniciantes em Python, ministrado pelo professor Gustavo Guanabara, dono do canal <a href="https://www.youtube.com/@CursoemVideo">Curso em Vídeo</a> no youtube. </p>
 
