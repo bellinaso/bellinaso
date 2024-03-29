@@ -12,7 +12,7 @@
 
 <p align="justify">Por meio da minha cunhada descobri o CTISM, que oferece o curso técnico em informática, e que um grande amigo também tentaria o processo seletivo, o que me incentivou a estudar para ingressar, e assim seguir aprofundando os meus conhecimentos.</p>
 
-<p align="justify">Meu objetivo é cursar Ciência da Computação na UFSM, e seguir carreira na área.</p>
+<p align="justify">Meu objetivo no momento é me tornar um desenvolvedor full-stack e em seguida cursar Ciência da Computação na UFSM, e seguir carreira na área.</p>
 
 
 ## Social
