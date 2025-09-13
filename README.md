@@ -1,16 +1,14 @@
 
 ## Olá! Bem vindo ao meu Github 👋🏻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b&label=Profile%20views&color=8718e2&style=flat-square" alt="bellinaso" /> </p>
-
 ### Um pouco sobre mim
 <!-- <img style="width:256px; border-radius:50%; margin: 1rem;" align="right" alt="" src=""/> -->
 
-<p align="justify">Me chamo Bruno Bellinaso Brasil, sou natural de Santa Maria, Rio Grande do Sul, Brasil, nasci em 2006 e tenho 18 anos de idade. Estudo atualmente no <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a> (CTISM) cursando Técnico em Informática para a Internet integrado ao ensino médio.</p>
+<p align="justify">Me chamo Bruno Bellinaso Brasil, sou natural de Santa Maria, Rio Grande do Sul, Brasil, nasci em 2006 e tenho 18 anos de idade. Atualmente curso, no <a href="https://www.ufsm.br/unidades-universitarias/ctism">Colégio Técnico Industrial de Santa Maria</a>, (CTISM) Técnico em Informática para Internet integrado ao ensino médio.</p>
 
-<p align="justify">Meu interesse por tecnologia surgiu por meio do convívio com familiares que trabalham nessa área, como meu pai e meus tios. Em 2020, durante a pandemia do COVID-19, decidi iniciar minha jornada no mundo da programação para criar um bot de Discord (spoiler: projeto abandonado). Comecei, então, a assistir a um curso de programação para iniciantes em Python, ministrado pelo professor Gustavo Guanabara, dono do canal <a href="https://www.youtube.com/@CursoemVideo">Curso em Vídeo</a> no youtube. </p>
+<p align="justify">Meu interesse por tecnologia surgiu por meio do convívio com familiares que trabalham nessa área, como meu pai e meus tios. Em 2020, decidi iniciar minha jornada no mundo da programação para criar um bot de Discord (spoiler: projeto abandonado). Comecei, então, a assistir a um curso de programação para iniciantes em Python, ministrado pelo professor Gustavo Guanabara, dono do canal <a href="https://www.youtube.com/@CursoemVideo">Curso em Vídeo</a> no youtube. </p>
 
-<p align="justify">Por meio da minha cunhada descobri o CTISM, que oferece o curso Técnico em Informática, e que um grande amigo também tentaria o processo seletivo, o que me incentivou a estudar para ingressar, e assim seguir aprofundando os meus conhecimentos.</p>
+<p align="justify">Por meio da minha cunhada descobri o CTISM, que oferece o curso Técnico em Informática para Internet, que um grande amigo também participaria do processo seletivo, o que me incentivou ao ingresso, para assim seguir aprofundando os meus conhecimentos.</p>
 
 <p align="justify">Meu objetivo, no momento, é aprimorar meus conhecimentos para desenvolvimento full-stack e experiência profissional, para em seguida cursar Ciência da Computação, na UFSM, e expandir minha carreira.</p>
 
@@ -18,9 +16,8 @@
 ## Social
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunobellinaso2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-bellinaso-brasil-199111268/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobellinaso)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunobellinaso/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BrunoBellinaso)
 
 
 ## Estudei
@@ -51,20 +48,20 @@
 ## Estou estudando
 <div display="inline-block">
     <!-- Node jS -->
-    <img align="center" alt="c++" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img align="center" alt="Node J S" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <!-- React JS -->
-    <img align="center" alt="c++" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="React J S" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <!-- React Native -->
-    <img align="center" alt="c++" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <!-- JAVA -->
-    <img align="center" alt="c++" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <!-- .NET -->
+    <img align="center" alt="dot NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
 
 ## Minhas estatísticas do github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellinaso&show_icons=true&theme=midnight-purple)
-
-<!-- <br> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellinaso&theme=midnight-purple)](https://github.com/bellinaso/github-readme-stats)
