@@ -9,11 +9,15 @@ My name is Bruno Bellinaso Brasil, I am from Santa Maria, Rio Grande do Sul, Bra
 </p>
 
 <p align="justify">
+Studying Computer Science at UFSM.
+</p>
+
+<p align="justify">
 Passionate about technology, programming, cybersecurity, and how things work since I was a kid!
 </p>
 
 <p align="justify">
-I am currently seeking to improve my full-stack skills, gain professional experience, and pursue a degree in Computer Science at UFSM.
+I am currently seeking to improve my full-stack skills and gain professional experience.
 </p>
 
 
